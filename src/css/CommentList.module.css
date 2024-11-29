@@ -1,0 +1,17 @@
+.comment {
+    display: flex;
+    justify-content: space-between;
+    margin: .8rem 3.5rem;
+
+}
+
+.message {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    letter-spacing: 0.05em
+}
+
+.date {
+    font-size: .7rem;
+    margin-top: 2.5rem;
+}
